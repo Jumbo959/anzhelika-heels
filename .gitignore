@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+data/leads.json
+data/finance.json
+data/kassa.xlsx
+data/admin.local.json
+uploads/*
+!uploads/.gitkeep
